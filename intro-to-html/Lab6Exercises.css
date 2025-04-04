@@ -1,0 +1,24 @@
+p{
+  font-family:Montserrat;
+}
+
+.Car-model{
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.Subheading{
+  font-size: 20px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.Underline-text{
+  text-decoration: underline;
+}
+
+.Underline-text:hover{
+  cursor:pointer;
+}
